@@ -1,0 +1,5 @@
+# Basic Go Types:
+  - bool
+  - string
+  - int
+  - float64
